@@ -68,8 +68,5 @@ Delay Analysis: Average delay days of 1.71 are relatively low, but they have a c
 Power BI Desktop
 SQL Databases (for data source)
 DAX Calculations (for advanced metrics)
-📬 Contact
-For any queries or insights into this project, feel free to reach out:
 
-Email: chatterjee.chandan1991@gmail.com
-LinkedIn: Chandan Chatterjee
+
