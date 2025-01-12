@@ -1,6 +1,6 @@
-AtliQ Mart Supply Chain Analysis 📊
+                                                    AtliQ Mart Supply Chain Analysis 📊
 
-[Dashboard](https://github.com/Chatterjee18/AtliQ-Mart--Supply-Chain-Analysis/blob/b71d4749495686d052a64c1f9b46b577ef495ec5/AtliQ%20Mart%20Analysis.pdf)
+
 
 Live Dashboard - [PowerBI](https://app.powerbi.com/groups/me/reports/949c5632-04ad-4a52-861d-fa123e3a4002/eb422f36245a3cc37a5b?experience=power-bi)
 
@@ -76,3 +76,20 @@ Data Model
 Dashboard
 ![AtliQ Mart Analysis_page-0001](https://github.com/user-attachments/assets/4c94c4b0-6dcb-4cb2-8fd4-cc303820ce5f)
 
+Some Major Insights
+
+All the Key Metrics (OT%, IF%, OTIF%) are far behind the target
+
+On average, orders are delayed 0.42 days from the agreed date of delivery
+
+Lotus Mart, Coolblue, Acclaimed stores have the highest orders as well as delayed the most to deliver the products on time
+
+Is it because we are not estimating the right delivery date?
+
+Is it because we are receiving more orders than expected?
+
+Ghee, curd, and butter products are most delayed to deliver.
+
+There are no noticeable improvements in any of the key metrics in the last few months
+
+There is a huge gap in IF% for most of the customers. Is it because of less production?
