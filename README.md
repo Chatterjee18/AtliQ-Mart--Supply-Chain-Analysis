@@ -69,4 +69,10 @@ Power BI Desktop
 SQL Databases (for data source)
 DAX Calculations (for advanced metrics)
 
+Data Model
+
+![Screenshot 2025-01-12 191156](https://github.com/user-attachments/assets/c12f8666-7b06-490e-8668-fc7d8523f739)
+
+Dashboard
+![AtliQ Mart Analysis_page-0001](https://github.com/user-attachments/assets/4c94c4b0-6dcb-4cb2-8fd4-cc303820ce5f)
 
